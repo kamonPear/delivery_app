@@ -1,0 +1,21 @@
+{
+    "flutter": {
+        "platforms": {
+            "android": {
+                "default": {
+                    "projectId": "delivery-track-sure",
+                    "appId": "1:1051519063607:android:1b0800f89b3d4863be11b2",
+                    "fileOutput": "android/app/google-services.json"
+                }
+            },
+            "dart": {
+                "lib/firebase_options.dart": {
+                    "projectId": "delivery-track-sure",
+                    "configurations": {
+                        "android": "1:1051519063607:android:1b0800f89b3d4863be11b2"
+                    }
+                }
+            }
+        }
+    }
+}

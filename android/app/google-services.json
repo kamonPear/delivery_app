@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1051519063607",
+    "project_id": "delivery-track-sure",
+    "storage_bucket": "delivery-track-sure.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051519063607:android:1b0800f89b3d4863be11b2",
+        "android_client_info": {
+          "package_name": "com.example.delivery_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf86sRQeYxbFWqa8duz_U3IodFld1yY7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
